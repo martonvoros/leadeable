@@ -1,10 +1,10 @@
 ![alt text](https://github.com/martonvoros/leadeable/blob/main/leadable_icon.png?raw=true)
 
 
-# Leadable - Sync Facebook Leads with Google Sheets
+# Leadeable - Sync Facebook Leads with Google Sheets
 
 ## Overview
-Leadable is a lightweight, user-friendly Python application designed to synchronize Facebook lead data (from lead forms) with Google Sheets. It features a modern, minimalistic GUI built with `customtkinter`, Google OAuth authentication, and customizable synchronization intervals. This tool is ideal for marketers and developers who need to manage and analyze Facebook leads efficiently.
+Leadeable is a lightweight, user-friendly Python application designed to synchronize Facebook lead data (from lead forms) with Google Sheets. It features a modern, minimalistic GUI built with `customtkinter`, Google OAuth authentication, and customizable synchronization intervals. This tool is ideal for marketers and developers who need to manage and analyze Facebook leads efficiently.
 
 ## Features
 - **Facebook Integration**: Fetch lead data from Facebook using an access token, ad account ID, and form ID.
@@ -36,5 +36,5 @@ Before using Leadable, ensure you have the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/martonvoros/leadable.git
+   git clone https://github.com/martonvoros/leadeable.git
    cd leadable
