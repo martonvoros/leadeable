@@ -34,5 +34,5 @@ Before using Leadable, ensure you have the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/leadable.git
+   git clone https://github.com/martonvoros/leadable.git
    cd leadable
