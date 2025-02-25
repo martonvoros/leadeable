@@ -6,7 +6,6 @@ Leadable is a lightweight, user-friendly Python application designed to synchron
 ## Features
 - **Facebook Integration**: Fetch lead data from Facebook using an access token, ad account ID, and form ID.
 - **Google Sheets Sync**: Automatically sync leads to Google Sheets with customizable frequency (e.g., 5 minutes, 1 hour, 1 day).
-- **Modern UI**: Clean, minimalistic interface with 2024 design trends, including Unicode icons and smooth animations.
 - **OAuth Authentication**: Secure Google login for accessing Google Sheets.
 - **Cross-Platform**: Runs on Windows, macOS, and Linux with Python 3.8+.
 
