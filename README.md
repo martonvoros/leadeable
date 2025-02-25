@@ -1,3 +1,5 @@
+![alt text]([http://url/to/img.png](https://github.com/martonvoros/leadeable/blob/main/leadable_icon.png))
+
 # Leadable - Sync Facebook Leads with Google Sheets
 
 ## Overview
